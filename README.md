@@ -1,3 +1,4 @@
+![logo](mill-sort.png "Mill Sort Logo")
 # Mill Sort Algorithm
 The Mill sort algorithm is a sorting algorithm developed by Furkan Değirmenciler. This algorithm counts how many elements each element is less than or equal to and uses this information to sort.
 
